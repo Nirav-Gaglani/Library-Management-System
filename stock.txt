@@ -1,0 +1,7 @@
+ANSI: 0
+Python: 2
+Django: 4
+Flask: 5
+Subtle Art: 1
+Atomic Habits: 8
+ABC: 1
